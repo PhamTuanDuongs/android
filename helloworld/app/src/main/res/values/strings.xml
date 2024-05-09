@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="test_name">Example for table</string>
+    <string name="my_image_description">Facebook</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="phep">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
 </resources>
